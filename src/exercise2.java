@@ -1,6 +1,7 @@
 import static java.lang.Math.PI;
 
 public class exercise2 {
+    public static void main (String [] args){
         //3.3.1
         int y = 123456, x = 0;
         if (y > 0){
@@ -25,3 +26,4 @@ public class exercise2 {
                  "radius " + radius + " is" + area);
         }
     }
+}

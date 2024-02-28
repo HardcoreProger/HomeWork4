@@ -1,4 +1,5 @@
 public class Exercise1 {
+    public static void main (String [] args){
         //3.2.1
         /*
         "==" - равно, "!=" - не равно
@@ -29,4 +30,5 @@ public class Exercise1 {
         //boolean b = (boolean)i;
         // несовместимые типы данных, bool не может быть конвертирован в int
 
+    }
 }

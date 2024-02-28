@@ -1,4 +1,6 @@
 public class Exercise3 {
+    public static void main (String [] args)
+    {
         //3.4.1
         int pay = 24_000, score = 70;
         if (score>90){
@@ -13,4 +15,5 @@ public class Exercise3 {
         // в (b) если number = 35 то остаток останется и условие нарушится
         // при наличии else вывод будет: is odd
     }
+}
 
